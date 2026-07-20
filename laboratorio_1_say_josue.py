@@ -12,7 +12,7 @@ Objetivos:
 - Aplicar acciones simples de guardrail: ALLOW, WARN, REDACT o BLOCK.
 
 Ejecutar:
-    python laboratorio_1_tokenizacion_guardrails_guia.py
+    python laboratorio_1_say_josue.py
 """
 
 from collections import Counter
